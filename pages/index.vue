@@ -24,7 +24,7 @@
         'https://jsonplaceholder.typicode.com/posts'
       )
     },
-    fetchOnServer: true
+    fetchOnServer: false
   }
 </script>
 
